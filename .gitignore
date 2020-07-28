@@ -2,3 +2,5 @@
 target/
 *.iml
 .kotlintest
+.project
+.settings
